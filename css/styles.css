@@ -93,7 +93,7 @@
 
 .register-form input:focus {
   outline: none;
-  border: 2px solid black;
+  border: 2px solid #4f7df3;
 }
 
 .register-form button {
